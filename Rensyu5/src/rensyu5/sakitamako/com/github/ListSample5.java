@@ -20,7 +20,7 @@ public class ListSample5 {
 	    System.out.println(list.get(i));
 	    }
 	    
-	    //拡張 for 文を利用するともっと簡単です
+	    //拡張 for 文を利用するともっと簡単
 	    for (String s: list) {
 	    	System.out.println(s);
 	    }

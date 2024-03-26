@@ -18,7 +18,7 @@ public class SetSample5 {
 
         //拡張 For 文を利用
         for (String s: set) {
-            System.out.println(s);
+        	System.out.println(s);
         }
         
     }

@@ -29,7 +29,7 @@ public class MapSample5 {
         }
         
         //拡張 for 文を利用してすべて情報を取得する
-        for (Map.Entry<String,String> e: map.entrySet()) {
+        for (Map.Entry<String, String> e: map.entrySet()) {
             System.out.println(e.getKey() + ":" + e.getValue());
         }
         
